@@ -16,6 +16,14 @@ make apply-patch
 python simu/display.py --policy_type simple
 ```
 
+### trained ant simulations
+
+https://github.com/drbh/simu/assets/9896130/e610f3da-b0f2-430a-bb54-e94e4903131e
+
+https://github.com/drbh/simu/assets/9896130/f1af8a17-b2b6-4ca2-b8a8-bf7cf69614ba
+
+
+
 ### training
 
 ```bash
