@@ -1,0 +1,10 @@
+[project]
+name = "simu"
+version = "0.0.0"
+dependencies = ["gymnasium==0.29.1", "mujoco==3.1.6"]
+requires-python = ">=3.8"
+authors = [{ name = "drbh", email = "david.richard.holtz@gmail.com" }]
+maintainers = [{ name = "drbh", email = "david.richard.holtz@gmail.com" }]
+description = "A simple simulation package."
+readme = "README.md"
+
